@@ -12,10 +12,6 @@
   font-size: 1em; }
 
 
-.reveal blockquote {
-	width: 90%;
-}
-
 
 /*Headers of nested slides*/
 .reveal .level2 h1 {
@@ -34,8 +30,16 @@
 
 /* Quotes */
 .reveal blockquote {
+	width: 90%;
 	font-size: 0.73em;
 }
+
+/* Table */
+
+.reveal table th {
+	text-align: center;
+}
+
 
 
 /*********************
@@ -65,11 +69,10 @@
 	font-variant: small-caps;
 }
 
-
-
-/* Table */
-
-.reveal table th {
-	text-align: center;
+/* Fragestellung */
+.reveal #fragestellung blockquote {
+	font-size: 100%;
 }
+
+
 

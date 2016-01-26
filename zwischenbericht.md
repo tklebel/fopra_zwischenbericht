@@ -12,8 +12,9 @@ date: 27. Januar 2016
 
 --------
 
+<div id="fragestellung">
 > Wie lässt sich die Komplexität von Grazer Studentenverbindungen die im ÖCV organisiert sind, sowie die „Verbindungskarrieren“ ihrer Mitglieder, aus einer soziologischen Perspektive nachzeichnen?
-
+</div>
 # Forschungsfeld
 
 -----

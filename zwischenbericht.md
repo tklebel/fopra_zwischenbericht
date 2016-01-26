@@ -19,8 +19,11 @@ date: 27. Januar 2016
 
 -----
 
-- Feld
-- Relevanz
+## Relevanz
+
+- Forschungslücke
+- Mediale Präsenz des Themas
+- Präsenz von Verbindungen in Graz
 
 
 # Theorie
@@ -59,7 +62,7 @@ date: 27. Januar 2016
 ## Sampling
 
 - “Theoretical Sampling” 
-- Zirkulärer Prozess (Erhebung <-> Auswertung)
+- Zirkulärer Prozess (Erhebung &#8660; Auswertung)
 - Sampling für Beobachtung und Interviews
 
 
@@ -169,24 +172,26 @@ IP: Nein, deshalb nicht, weil eben der eine so stark auf mich eingewirkt hat.“
 >„Ahm wir haben eine extrem lange Geschichte, uns gibt es seit 1907, also jetzt den ((Name von Noahs MKV Verbindung)) St. Pölten. Also jetzt auch schon 107 oder 108 Jahre jetzt schon. Und unserer Ansicht nach ist das Prinzip religio, also vor allem das katholisch, ahm schafft bestimmte Werte, ahm die unserer Ansicht nach zeitlos sind. (…) Und diese Werte haben sich eben extrem lange gehalten und wir sind mit ihnen auch wirklich lange gut gefahren, weil sonst wären wir nach 40 Jahren, in den 50er, 60er Jahren wären wir sowieso aufgelöst worden. Ah, deswegen halten wir auch daran fest.“ (Noah, 52)
 
 
-
-
-
-
-
-
-
 # Weiteres Vorgehen
 
 ## Geplante Schritte
 
-## Modifizierte Fragestellung
+- Interviews Codieren
+- Theoriebildung
+- Weitere Interviews
+- Quantitative Erhebung im SS
 
+
+## Fragestellung
+
+<div id="fragestellung">
+> Wie lässt sich die Komplexität von Grazer Studentenverbindungen, die im ÖCV organisiert sind, sowie die „Verbindungskarrieren“ ihrer Mitglieder, aus einer soziologischen Perspektive nachzeichnen?
+</div>
 
 # Quellen
 
 
-## Quellen
+---
 
 - Bourdieu, Pierre. 2012a[1979]. *Entwurf einer Theorie der Praxis - auf der ethnologischen Grundlage der kabylischen Gesellschaft*. Frankfurt am Main: Suhrkamp.
 - Bourdieu, Pierre. 2012b[1987]. *Die feinen Unterschiede. Kritik der gesellschaftlichen Urteilskraft.* Frankfurt am Main: Suhrkamp.

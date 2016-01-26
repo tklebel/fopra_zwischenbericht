@@ -1,8 +1,12 @@
 ---
-title: Forschungsdesign
+title: Karriereverläufe in Grazer Studentenverbindungen
+subtitle: Eine Explorative Untersuchung mittels <br> Grounded Theorie und Pierre Bourdieu
 author: Frohmann, Klebel, Schirgi, Valentin
 date: 27. Januar 2016
+
 ---
+
+
 
 # Fragestellung
 
@@ -16,7 +20,6 @@ date: 27. Januar 2016
 
 - Feld
 - Relevanz
-
 
 
 # Theorie

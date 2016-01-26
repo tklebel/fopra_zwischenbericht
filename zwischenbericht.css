@@ -42,15 +42,21 @@
 * Title-Slide
 *********************/
 .reveal .title {
-	font-size: 1.2em;
+	font-size: 1.8em;
 	padding-top: 1.5em;
 }
 
+.reveal .subtitle {
+	font-size: 1em;
+	padding-top: 0.5em;
+	padding-bottom: 1em;
+}
+
 .reveal .author {
-	font-size: 1.2em;
+	font-size: 1.05em;
 	text-transform: capitalize;
 	font-variant: small-caps;
-	margin-bottom: 1.5em;
+	margin-bottom: 1em;
 }
 
 .reveal .date {

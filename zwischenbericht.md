@@ -13,7 +13,7 @@ date: 27. Januar 2016
 --------
 
 <div id="fragestellung">
-> Wie lässt sich die Komplexität von Grazer Studentenverbindungen die im ÖCV organisiert sind, sowie die „Verbindungskarrieren“ ihrer Mitglieder, aus einer soziologischen Perspektive nachzeichnen?
+> Wie lässt sich die Komplexität von Grazer Studentenverbindungen, die im ÖCV organisiert sind, sowie die „Verbindungskarrieren“ ihrer Mitglieder, aus einer soziologischen Perspektive nachzeichnen?
 </div>
 # Forschungsfeld
 
@@ -29,11 +29,11 @@ date: 27. Januar 2016
 - Abgrenzung zum symbolischen Interaktionismus
 - Partielle Wahrnehmung
 - Konstruktivismus aufgrund gruppeneigener Definition von „legitim“
-- "soziale Identität gewinnt Kontur und bestätigt sich in der Differenz.“ (Bourdieu 2012: 279)
+- "soziale Identität gewinnt Kontur und bestätigt sich in der Differenz.“ (Bourdieu 2012b: 279)
 
 ## Habitus
 
-- Art „Handlungs-, Wahrnehmungs- und Denkmatrix“ (Bourdieu 2012: 169)
+- Art „Handlungs-, Wahrnehmungs- und Denkmatrix“ (Bourdieu 2012a: 169)
 - Strukturiert die Praxis
 - „Hysteresis-Effekt des Habitus“
 
@@ -188,8 +188,8 @@ IP: Nein, deshalb nicht, weil eben der eine so stark auf mich eingewirkt hat.“
 
 ## Quellen
 
-- Bourdieu, Pierre. 2012[1979]. *Entwurf einer Theorie der Praxis - auf der ethnologischen Grundlage der kabylischen Gesellschaft*. Frankfurt am Main: Suhrkamp.
-- Bourdieu, Pierre. 2012[1987]. *Die feinen Unterschiede. Kritik der gesellschaftlichen Urteilskraft.* Frankfurt am Main: Suhrkamp.
+- Bourdieu, Pierre. 2012a[1979]. *Entwurf einer Theorie der Praxis - auf der ethnologischen Grundlage der kabylischen Gesellschaft*. Frankfurt am Main: Suhrkamp.
+- Bourdieu, Pierre. 2012b[1987]. *Die feinen Unterschiede. Kritik der gesellschaftlichen Urteilskraft.* Frankfurt am Main: Suhrkamp.
 - Wolff, Stephan. 2013. Wege ins Feld und ihre Varianten In: Flick, Uwe/ von Kardorff, Ernst/ Steinke, Ines. *Qualitative Forschung. Ein Handbuch.* S. 334 – 349. Reinbeck bei Hamburg: Rowohlt
 
 

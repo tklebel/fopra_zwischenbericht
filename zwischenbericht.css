@@ -1,0 +1,71 @@
+/*************************
+* General settings
+*************************/
+
+.reveal h1 {
+  font-size: 3em; }
+
+.reveal h2 {
+  font-size: 1.5em; }
+
+.reveal h3 {
+  font-size: 1em; }
+
+
+.reveal blockquote {
+	width: 90%;
+}
+
+
+/*Headers of nested slides*/
+.reveal .level2 h1 {
+ 	font-size: 2.5em;
+	text-transform: capitalize;
+	font-variant: small-caps;
+	margin-bottom: .8em;
+ }
+
+.reveal .source {
+	position: absolute;
+	bottom: -5em;
+	font-size: .6em;
+	width: 100%;
+}
+
+
+/*********************
+* Title-Slide
+*********************/
+.reveal .title {
+	font-size: 1.2em;
+	padding-top: 1.5em;
+}
+
+.reveal .author {
+	font-size: 1.2em;
+	text-transform: capitalize;
+	font-variant: small-caps;
+	margin-bottom: 1.5em;
+}
+
+.reveal .date {
+	font-size: 1em;
+	text-transform: capitalize;
+	font-variant: small-caps;
+}
+
+
+
+/*******************************
+* Einführung ins Feld 
+*******************************/
+
+.reveal #hochschulverbindungslandschaft-in-österreich h1 {
+	font-size: 2em;
+	margin-bottom: .2em;
+}
+.reveal #hochschulverbindungslandschaft-in-österreich img {
+	max-width: 80%;
+}
+
+

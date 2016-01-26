@@ -65,7 +65,31 @@ date: 27. Januar 2016
 
 ## Beobachtungen
 
-**Fehlt: Tabelle**
+<table>
+<tr>
+<th colspan="2">Verbindung 1</th>
+<th colspan="2">Verbindung 2</th>
+</tr>
+<tr>
+<td>Empfang Dezember</td>
+<td>Abgesagt</td>
+<td>Krambambuli November</td>
+<td>Erledigt</td>
+</tr>
+<tr>
+<td>WA Jänner</td>
+<td>Abgesagt</td>
+<td>WA Jänner</td>
+<td>Erledigt</td>
+</tr>
+<tr>
+<td>Kneipe Jänner</td>
+<td>Geplant</td>
+<td>Kneipe Jänner</td>
+<td>Geplant</td>
+</tr>
+</table>
+
 
 
 ## Interviews I

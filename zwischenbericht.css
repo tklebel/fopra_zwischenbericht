@@ -67,16 +67,9 @@
 
 
 
-/*******************************
-* Einführung ins Feld 
-*******************************/
+/* Table */
 
-.reveal #hochschulverbindungslandschaft-in-österreich h1 {
-	font-size: 2em;
-	margin-bottom: .2em;
+.reveal table th {
+	text-align: center;
 }
-.reveal #hochschulverbindungslandschaft-in-österreich img {
-	max-width: 80%;
-}
-
 

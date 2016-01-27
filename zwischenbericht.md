@@ -167,11 +167,6 @@ IP: Nein, deshalb nicht, weil eben der eine so stark auf mich eingewirkt hat.“
 >„(W)eil ich kenn das immer einmal wieder dass man sich, wenn man dann den Studienort wechselt und so weiter, dass man sich mit, dass sich Freundschaften einfach auseinanderleben, dass das irgendwann einmal abbricht. (…), irgendwie war das für mich recht cool wenn ich mir denke, ahm ich habe jetzt, wenn ich auch jetzt ein halbes Jahr im Ausland irgendwo bin oder so, komme ich nach St. Pölten zurück, gehe auf die Bude, also unser Verbindungsheim, und sehe dann die Leute mit denen ich (…) vor einem halben Jahr habe und bin mit ihnen sofort wieder per du, bin mit ihnen sofort wieder auf einer persönlichen Ebene. Das ist quasi auch ein Freundschafts(geist) der sich da einem auch eröffnet und wo du auch, wo du einiges auch lernen kannst. (Noah, 44)
 
 
-----
-
->„Ahm wir haben eine extrem lange Geschichte, uns gibt es seit 1907, also jetzt den ((Name von Noahs MKV Verbindung)) St. Pölten. Also jetzt auch schon 107 oder 108 Jahre jetzt schon. Und unserer Ansicht nach ist das Prinzip religio, also vor allem das katholisch, ahm schafft bestimmte Werte, ahm die unserer Ansicht nach zeitlos sind. (…) Und diese Werte haben sich eben extrem lange gehalten und wir sind mit ihnen auch wirklich lange gut gefahren, weil sonst wären wir nach 40 Jahren, in den 50er, 60er Jahren wären wir sowieso aufgelöst worden. Ah, deswegen halten wir auch daran fest.“ (Noah, 52)
-
-
 # Weiteres Vorgehen
 
 ## Geplante Schritte
